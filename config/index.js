@@ -14,11 +14,6 @@ xport const config = {
     province: "河南",
     // 所在城市
     city: "新乡",
-    // 生日，修改名字为对应需要显示的名字，如果生日为农历， type为 r
-    birthdays: [
-      {"name": "宝宝", "year": "2001", "date": "04-27", "type": 'new'},
-    ],
-
 // {{date.DATA}}  
 // 城市：{{city.DATA}}  
 // 天气：{{weather.DATA}}  
